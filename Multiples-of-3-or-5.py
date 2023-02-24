@@ -1,5 +1,5 @@
 # The sum of all the multiples of 3 or 5 below 1000
-# First the last number less than 1000 that can be divided by 3 is 999 so "999/3=333" so the range of the first for loop betwwen (0,334)
+# First the last number less than 1000 that can be divided by 3 is 999 so "999/3=333" so the range of the first for loop between (0,334)
 # Second // // // by 5 is 995 so "995/5=199" so the range of the second for loop between (0, 200)
 
 Multiple_of_3 = []
